@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="bottom_title_read_string">botton_title_read_string</string>
+    <string name="bottom_title_video_string">bottom_title_video_string</string>
+    <string name="bottom_title_lamp_string">bottom_title_lamp_string</string>
+    <string name="bottom_title_pc_string">bottom_title_pc_string</string>
+    <string name="bottom_title_news_string">bottom_title_news_string</string>
+</resources>
